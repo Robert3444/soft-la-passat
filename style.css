@@ -1,0 +1,27 @@
+.item1 {
+    background-color: black;
+    color: blue;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid green;
+}
+
+.item1 {
+    border: 2px solid black ;
+}
+  .item2 {
+    background-color: black;
+    color: blue;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid white;
+}
+
+
+  .item3 {
+    background-color: black;
+    color: blue;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid white;
+}
